@@ -6,4 +6,4 @@ I've used the concept of Motion detection to detect hands i.e. for 1st 30 frames
 For finger counting I've used the concept of detecting defects in contour formed by hands.
 
 I've also uploaded a screenshot of Output of this project
-![Output](https://github.com/Deepanshu-beep/Finger-Counting-with-Hand-Gestures/blob/master/Screenshot%202020-09-15%20235229.jpg)
+![Output](https://github.com/Deepanshu-beep/Finger-Counting-with-Hand-Gestures/blob/master/Output.jpg)
